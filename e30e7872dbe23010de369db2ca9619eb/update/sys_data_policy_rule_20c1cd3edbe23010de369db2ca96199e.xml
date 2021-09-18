@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>_short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-09-15 23:59:29</sys_created_on>
+        <sys_data_policy display_value="Sets the  Short description field to mandatory">2cc1cd3edbe23010de369db2ca96199b</sys_data_policy>
+        <sys_id>20c1cd3edbe23010de369db2ca96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>_short_description</sys_name>
+        <sys_package display_value="Innovate" source="x_698612_innovate">e30e7872dbe23010de369db2ca9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">e30e7872dbe23010de369db2ca9619eb</sys_scope>
+        <sys_update_name>sys_data_policy_rule_20c1cd3edbe23010de369db2ca96199e</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-09-15 23:59:29</sys_updated_on>
+        <table>x_698612_innovate_innovate</table>
+    </sys_data_policy_rule>
+</record_update>
