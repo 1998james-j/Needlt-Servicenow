@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-24 02:36:19</sys_created_on>
+        <sys_id>fe42f25ddbb2f410de369db2ca96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="Needlt" source="x_698612_innovate">e30e7872dbe23010de369db2ca9619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">e30e7872dbe23010de369db2ca9619eb</sys_scope>
+        <sys_update_name>sys_properties_category_fe42f25ddbb2f410de369db2ca96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-24 02:36:19</sys_updated_on>
+        <title><![CDATA[<p><strong><br />&lt;Add a small image and the text of your choice. Apply the formatting of your choice such as bold or italics.&gt;</strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe42f25ddbb2f410de369db2ca96195a"/>
+</record_update>
